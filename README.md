@@ -1,3 +1,1 @@
-= Highschool final project =
-
-- EMINEM Discography
+Eminem's discography website
